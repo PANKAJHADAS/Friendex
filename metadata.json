@@ -1,0 +1,6 @@
+{
+  "name": "Friendex",
+  "description": "A feature-rich social media experience featuring custom posts, video reels, interactive stories, real-time private messaging, search, an admin dashboard, and detailed analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
